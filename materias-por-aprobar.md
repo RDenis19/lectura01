@@ -1,4 +1,4 @@
-**Materias Por Aprobar**  
+# Materias Por Aprobar  
 Estas son las materias que aún debo cursar:
 
 - Álgebra Lineal  

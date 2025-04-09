@@ -7,5 +7,5 @@ chapters:
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
-- file: Materias aprobadas 
-- file: Materias por aprobar
+- file: materiasAprobadas 
+- file: materias-por-aprobar

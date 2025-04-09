@@ -1,4 +1,4 @@
-**Materias Aprobadas**  
+# Materias Aprobadas  
 A continuación, se presenta una lista de las materias que he aprobado:
 
 - Matemáticas I  
@@ -13,4 +13,3 @@ A continuación, se presenta una lista de las materias que he aprobado:
 - Economía Fundamental  
 
 
-Puedes ajustar o añadir más materias según sea necesario. ¿Quieres personalizarlo más o agregar algo adicional? 😊
